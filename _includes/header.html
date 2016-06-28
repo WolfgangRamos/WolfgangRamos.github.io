@@ -2,7 +2,7 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>&nbsp;&nbsp;<span class="site-subtitle">– {{ site.subtitle }}</span>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -13,6 +13,11 @@
         </svg>
       </a>
 
+	  <div class="trigger">
+          <a class="page-link" href="#currentprj">projects</a>
+          <a class="page-link" href="#about">about</a>
+      </div>
+	  <!--
       <div class="trigger">
         {% for my_page in site.pages %}
           {% if my_page.title %}
@@ -20,6 +25,7 @@
           {% endif %}
         {% endfor %}
       </div>
+	  -->
     </nav>
 
   </div>
