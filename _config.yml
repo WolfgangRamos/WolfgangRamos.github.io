@@ -11,12 +11,9 @@ email: webmaster@ramosarhuis.de
 description: > # this means to ignore newlines until "baseurl:"
   wolfgangs website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ramosarhuis.de" # the base hostname & protocol for your site
+url: "http://WolfgangRamos.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username: WolfgangRamos
 
 # Build settings
 markdown: kramdown
-
-# files to keep in the build directory
-keep_files: [.git,.gitignore,CNAME]
