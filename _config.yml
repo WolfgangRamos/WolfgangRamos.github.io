@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Wolfgang
+title: "ramosaurios - make your code big"
 email: webmaster@ramosarhuis.de
 description: > # this means to ignore newlines until "baseurl:"
-  wolfgangs website
+  "wolfgang's website"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ramosarhuis.de" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
