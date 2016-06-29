@@ -7,10 +7,10 @@
 
 # Site settings
 title: "ramosaurios"
-subtitle: "make your code big"
+subtitle: "ultimate code predator"
 email: webmaster@ramosarhuis.de
 description: > # this means to ignore newlines until "baseurl:"
-  wolfgang's website
+  an overview about me and my projects
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ramosarhuis.de" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
